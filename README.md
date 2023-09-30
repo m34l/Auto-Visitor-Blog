@@ -1,7 +1,7 @@
 # Auto Visitor Blog / Website
 
-![Auto Visitor](![image](https://github.com/m34l/Auto-Visitor-Blog/assets/12457856/ea0ab704-721d-4c33-bf09-70ae912cb091)
-)
+![Auto Visitor] ![image](https://github.com/m34l/Auto-Visitor-Blog/assets/12457856/0f649519-eca7-4066-8e9d-f83678fb75ff)
+
 
 Deskripsi singkat mengenai proyek ini. Jelaskan bahwa ini adalah skrip untuk mengunjungi otomatis blog atau situs web dan mencatat jumlah kunjungan yang berhasil.
 
